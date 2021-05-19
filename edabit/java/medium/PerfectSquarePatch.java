@@ -1,3 +1,4 @@
+//Create a function that takes an integer and outputs an n x n square solely consisting of the integer n.
 public class PerfectSquarePatch {
 	public static int[][] squarePatch(int n) {
 		int[][] result = new int[n][n];
